@@ -1,0 +1,11 @@
+{
+  "type": "astral:refinery",
+  "ingredients": [
+    {
+      "item": "astral:sap"
+    }
+  ],
+  "result": {
+    "item": "astral:resin"
+  }
+}

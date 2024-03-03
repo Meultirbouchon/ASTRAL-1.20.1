@@ -1,0 +1,38 @@
+{
+  "parent": "astral:space/root",
+  "criteria": {
+    "got_titanium": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "astral:titanium_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.space.got_titanium.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "astral:titanium_ingot"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.space.got_titanium.title"
+    }
+  },
+  "requirements": [
+    [
+      "got_titanium"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:blue_dye"
+    },
+    "C": {
+      "item": "astral:capacitor"
+    },
+    "H": {
+      "item": "astral:hundred_resistor"
+    },
+    "R": {
+      "item": "astral:red_circuit_board"
+    },
+    "T": {
+      "item": "astral:transistor"
+    },
+    "W": {
+      "item": "astral:copper_wire"
+    }
+  },
+  "pattern": [
+    "CTC",
+    "WRW",
+    "HBH"
+  ],
+  "result": {
+    "item": "astral:advanced_circuit_board"
+  },
+  "show_notification": true
+}

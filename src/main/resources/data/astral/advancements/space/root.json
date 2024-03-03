@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "stone": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cobblestone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "astral:textures/gui/advancements/backgrounds/sky.png",
+    "description": {
+      "translate": "advancements.space.root.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "astral:electrolyser"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.space.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "stone"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

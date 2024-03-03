@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "astral:circuit_board"
+    },
+    "C": {
+      "item": "astral:capacitor"
+    },
+    "G": {
+      "item": "minecraft:green_dye"
+    },
+    "R": {
+      "item": "astral:ten_k_resistor"
+    },
+    "T": {
+      "item": "astral:transistor"
+    },
+    "W": {
+      "item": "astral:iron_wire"
+    }
+  },
+  "pattern": [
+    "   ",
+    "CBW",
+    "TRG"
+  ],
+  "result": {
+    "item": "astral:basic_circuit_board"
+  },
+  "show_notification": true
+}

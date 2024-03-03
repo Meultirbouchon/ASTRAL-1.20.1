@@ -1,0 +1,38 @@
+{
+  "parent": "astral:space/got_titanium",
+  "criteria": {
+    "got_tungsten": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "astral:tungsten_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.space.got_tungsten.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "astral:tungsten_ingot"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.space.got_tungsten.title"
+    }
+  },
+  "requirements": [
+    [
+      "got_tungsten"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

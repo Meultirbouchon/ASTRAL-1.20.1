@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "titanium",
+  "ingredient": {
+    "item": "astral:titanium_ore"
+  },
+  "result": "astral:titanium_ingot"
+}

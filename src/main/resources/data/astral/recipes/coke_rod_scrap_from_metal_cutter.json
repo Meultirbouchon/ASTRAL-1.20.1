@@ -1,0 +1,12 @@
+{
+  "type": "astral:metal_cutter",
+  "ingredients": [
+    {
+      "item": "astral:coke"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "astral:coke_rod_scrap"
+  }
+}

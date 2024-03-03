@@ -1,0 +1,26 @@
+{
+  "values": [
+    "astral:titanium_block",
+    "astral:raw_titanium_block",
+    "astral:titanium_ore",
+    "astral:deepslate_titanium_ore",
+    "astral:raw_tungsten_block",
+    "astral:tungsten_block",
+    "astral:tungsten_ore",
+    "astral:deepslate_tungsten_ore",
+    "astral:platinium_block",
+    "astral:raw_platinium_block",
+    "astral:platinium_ore",
+    "astral:deepslate_platinium_ore",
+    "astral:lunarian_cobblestone",
+    "astral:lunarian_stone",
+    "astral:lunarian_regolith",
+    "astral:lunarian_titanium_ore",
+    "astral:lunarian_tungsten_ore",
+    "astral:lunarian_helium_ore",
+    "astral:lunarian_platinium_ore",
+    "astral:electrolyser",
+    "astral:metal_cutter",
+    "astral:refinery"
+  ]
+}

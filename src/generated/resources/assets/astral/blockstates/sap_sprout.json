@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "astral:block/sprout_stage0"
+    },
+    "age=1": {
+      "model": "astral:block/sprout_stage1"
+    },
+    "age=2": {
+      "model": "astral:block/sprout_stage2"
+    },
+    "age=3": {
+      "model": "astral:block/sprout_stage3"
+    },
+    "age=4": {
+      "model": "astral:block/sprout_stage4"
+    }
+  }
+}

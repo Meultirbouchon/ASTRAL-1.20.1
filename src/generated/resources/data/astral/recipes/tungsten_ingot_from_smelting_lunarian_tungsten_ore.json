@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "tungsten",
+  "ingredient": {
+    "item": "astral:lunarian_tungsten_ore"
+  },
+  "result": "astral:tungsten_ingot"
+}

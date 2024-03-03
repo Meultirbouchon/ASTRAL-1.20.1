@@ -1,0 +1,12 @@
+{
+  "type": "astral:metal_cutter",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "astral:can"
+  }
+}

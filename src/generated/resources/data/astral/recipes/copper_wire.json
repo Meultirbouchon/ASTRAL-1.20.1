@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "astral:pliers"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "astral:copper_wire"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:stone"
+    },
+    "S": {
+      "item": "minecraft:stone_pressure_plate"
+    }
+  },
+  "pattern": [
+    "ISI",
+    "IBI",
+    "RRR"
+  ],
+  "result": {
+    "item": "astral:metal_cutter"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:blast_furnace"
+    },
+    "C": {
+      "item": "astral:copper_pipe"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "T": {
+      "item": "astral:tank"
+    }
+  },
+  "pattern": [
+    "CCC",
+    "TBT",
+    "III"
+  ],
+  "result": {
+    "item": "astral:refinery"
+  },
+  "show_notification": true
+}

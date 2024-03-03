@@ -1,0 +1,20 @@
+{
+  "type": "astral:electrolyser",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "astral:canister"
+    }
+  ],
+  "result": {
+    "item": "astral:oxygen_canister"
+  },
+  "result2": {
+    "item": "astral:hydrogen_canister"
+  },
+  "result3": {
+    "item": "minecraft:bucket"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "astral:connector"
+    },
+    "G": {
+      "item": "astral:glass_fiber"
+    },
+    "R": {
+      "item": "astral:resin"
+    }
+  },
+  "pattern": [
+    "CRC",
+    "RGR",
+    "CRC"
+  ],
+  "result": {
+    "item": "astral:circuit_board"
+  },
+  "show_notification": true
+}

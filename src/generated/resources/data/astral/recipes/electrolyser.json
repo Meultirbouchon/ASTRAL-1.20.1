@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "F": {
+      "item": "minecraft:blast_furnace"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "P": {
+      "item": "astral:platinium_rod"
+    },
+    "T": {
+      "item": "astral:tank"
+    }
+  },
+  "pattern": [
+    "PBP",
+    "TFT",
+    "III"
+  ],
+  "result": {
+    "item": "astral:electrolyser"
+  },
+  "show_notification": true
+}

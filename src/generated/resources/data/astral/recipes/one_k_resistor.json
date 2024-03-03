@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "astral:resin"
+    },
+    "T": {
+      "item": "astral:ten_k_resistor"
+    },
+    "W": {
+      "item": "astral:iron_wire"
+    }
+  },
+  "pattern": [
+    " T ",
+    "WRW",
+    " T "
+  ],
+  "result": {
+    "count": 2,
+    "item": "astral:one_k_resistor"
+  },
+  "show_notification": true
+}

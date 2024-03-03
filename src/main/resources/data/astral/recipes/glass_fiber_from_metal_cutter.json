@@ -1,0 +1,12 @@
+{
+  "type": "astral:metal_cutter",
+  "ingredients": [
+    {
+      "item": "minecraft:glass"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "astral:glass_fiber"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_lunarian_cobblestone": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "astral:lunarian_cobblestone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "astral:lunarian_stone_from_smelting_lunarian_cobblestone"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_lunarian_cobblestone",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "astral:lunarian_stone_from_smelting_lunarian_cobblestone"
+    ]
+  },
+  "sends_telemetry_event": false
+}

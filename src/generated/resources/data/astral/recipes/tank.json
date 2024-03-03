@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "N": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "   ",
+    "NN ",
+    "BB "
+  ],
+  "result": {
+    "item": "astral:tank"
+  },
+  "show_notification": true
+}

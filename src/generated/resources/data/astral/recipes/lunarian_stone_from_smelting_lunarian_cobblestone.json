@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "lunarian_stone",
+  "ingredient": {
+    "item": "astral:lunarian_cobblestone"
+  },
+  "result": "astral:lunarian_stone"
+}

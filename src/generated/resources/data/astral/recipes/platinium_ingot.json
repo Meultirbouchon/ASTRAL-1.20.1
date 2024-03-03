@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "astral:platinium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "astral:platinium_ingot"
+  }
+}
